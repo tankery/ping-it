@@ -1,0 +1,65 @@
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+from utils import pipeline_func
+
+######
+# business functions
+
+def file_sample(fname):
+    import analyzer
+
+    s = None
+    with open(fname) as f:
+        lines = f.readlines()
+        s = pipeline_func(lines, [
+            analyzer.lines_packager,
+            analyzer.package_validater
+            ])
+
+    return s
+
+def result_beauty(pkgs):
+    from analyzer import pkg_score
+    def formatting(pkg):
+        score = int(pkg_score(pkg) * 100)
+        pkg['graph'] = '%*d]' % (score, score)
+        return '%(time)s, %(loss)4.1f%%, %(avg)7.2f, %(stddev)6.2f, %(graph)s' % \
+                pkg
+    return map(formatting, pkgs)
+
+
+def analyzing(site):
+    sitefile = 'collection/%s.txt' % site
+    s = pipeline_func(sitefile, [
+        file_sample,
+        result_beauty,
+        ])
+    if not s:
+        return "Data is Empty!"
+
+    title = '%19s %5s %8s %7s  %s' % ('time      ', 'loss', 'avg', 'stddev', 'graph')
+    s.insert(0, title)
+    return s
+
+
+#####
+# Script
+
+# enable debugging
+import cgitb
+cgitb.enable()
+
+import cgi
+args = cgi.FieldStorage()
+
+host = args['host'].value
+li = analyzing(host)
+
+print "Content-Type: text/html;charset=utf-8"
+print
+print '<pre>'
+for line in li:
+    print line
+print '</pre>'
+

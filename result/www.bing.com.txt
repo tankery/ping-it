@@ -1,0 +1,394 @@
+
+
+Mon Apr 13 18:36:27 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=107.089 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=89.139 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=101.755 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=94.764 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=106.103 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=82.430 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=96.632 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=97.726 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=94.452 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=120.290 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 82.430/99.038/120.290/9.972 ms
+
+
+Mon Apr 13 18:39:13 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=123.535 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=100.665 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=92.112 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=93.060 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=118.041 ms
+Request timeout for icmp_seq 5
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=91.068 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=93.733 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=117.442 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=85.989 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 9 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 85.989/101.738/123.535/13.261 ms
+
+
+Mon Apr 13 18:49:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=87.319 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=92.226 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=88.072 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=95.875 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=94.761 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=81.252 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=101.854 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=111.262 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=93.274 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=87.394 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 81.252/93.329/111.262/8.055 ms
+
+
+Mon Apr 13 19:09:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=83.164 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=100.051 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=83.999 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=86.180 ms
+Request timeout for icmp_seq 4
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=70.067 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=84.472 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=77.736 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=94.820 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=126.394 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 9 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 70.067/89.654/126.394/15.360 ms
+
+
+Mon Apr 13 19:29:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=77.490 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=114.128 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=95.199 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=74.793 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=93.826 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=90.629 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=88.620 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=89.384 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=89.791 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=87.045 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 74.793/90.091/114.128/10.114 ms
+
+
+Mon Apr 13 19:49:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=83.038 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=92.286 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=90.169 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=101.000 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=97.964 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=90.411 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=84.494 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=94.545 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=147.136 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=94.421 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 83.038/97.546/147.136/17.332 ms
+
+
+Mon Apr 13 20:09:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=87.729 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=84.061 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=90.222 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=101.457 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=98.717 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=205.605 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=100.641 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=93.087 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=94.869 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 9 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 84.061/106.265/205.605/35.555 ms
+
+
+Mon Apr 13 20:29:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=99.788 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=102.202 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=131.887 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=95.924 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=99.672 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=91.043 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=93.785 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=94.066 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=79.387 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=96.726 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 79.387/98.448/131.887/12.665 ms
+
+
+Mon Apr 13 20:49:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=103.217 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=94.398 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=125.180 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=83.126 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=99.886 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=99.497 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=89.657 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=91.703 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=109.201 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=86.879 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 83.126/98.274/125.180/11.677 ms
+
+
+Mon Apr 13 21:09:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=91.758 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=92.069 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=111.961 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=93.163 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=97.525 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=97.078 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=100.572 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=100.027 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=93.022 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=97.152 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 91.758/97.433/111.961/5.714 ms
+
+
+Mon Apr 13 21:29:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=102.130 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=101.714 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=88.400 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=92.099 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=105.847 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=99.872 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=95.224 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=97.152 ms
+Request timeout for icmp_seq 8
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=96.724 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 9 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 88.400/97.685/105.847/5.078 ms
+
+
+Mon Apr 13 21:49:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=115.215 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=98.408 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=97.005 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=97.658 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=107.830 ms
+Request timeout for icmp_seq 5
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=104.875 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=103.154 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=105.028 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=99.058 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 9 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 97.005/103.137/115.215/5.589 ms
+
+
+Mon Apr 13 22:09:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=103.365 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=96.997 ms
+Request timeout for icmp_seq 2
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=98.540 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=103.423 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=103.333 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=106.290 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=108.721 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=117.405 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 8 packets received, 20.0% packet loss
+round-trip min/avg/max/stddev = 96.997/104.759/117.405/5.944 ms
+
+
+Mon Apr 13 22:29:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=149.769 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=146.191 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=145.641 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=142.022 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=140.399 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=170.408 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=142.894 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=151.535 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=130.808 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=142.112 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 130.808/146.178/170.408/9.712 ms
+
+
+Mon Apr 13 22:49:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=108.217 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=117.072 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=111.593 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=111.854 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=122.959 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=116.398 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=116.095 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=120.602 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=111.304 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=112.015 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 108.217/114.811/122.959/4.381 ms
+
+
+Mon Apr 13 23:09:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=154.694 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=151.393 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=157.438 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=172.304 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=163.940 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=154.149 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=151.754 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=162.113 ms
+Request timeout for icmp_seq 8
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=142.078 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 9 packets received, 10.0% packet loss
+round-trip min/avg/max/stddev = 142.078/156.651/172.304/8.183 ms
+
+
+Mon Apr 13 23:29:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=156.496 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=162.955 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=158.196 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=170.927 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=162.359 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=160.116 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=169.664 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=175.762 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=171.521 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=164.624 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 156.496/165.262/175.762/6.069 ms
+
+
+Mon Apr 13 23:49:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=145.612 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=150.241 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=149.486 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=146.864 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=156.475 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=174.354 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=145.046 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=151.792 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=159.609 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=148.295 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 145.046/152.777/174.354/8.428 ms
+
+
+Tue Apr 14 00:09:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=181.187 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=199.772 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=214.585 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=190.101 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=307.887 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=212.334 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=185.781 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=186.105 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=204.153 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=185.849 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 181.187/206.775/307.887/35.511 ms
+
+
+Tue Apr 14 00:29:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=204.259 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=239.108 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=220.082 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=201.517 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=268.084 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=312.621 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=204.031 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=178.969 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=204.117 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=198.518 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 178.969/223.131/312.621/37.947 ms
+
+
+Tue Apr 14 00:49:59 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=158.531 ms
+64 bytes from 204.79.197.200: icmp_seq=1 ttl=114 time=152.062 ms
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=143.638 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=150.343 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=158.036 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=151.193 ms
+64 bytes from 204.79.197.200: icmp_seq=6 ttl=114 time=174.267 ms
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=146.340 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=173.535 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=131.753 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 10 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 131.753/153.970/174.267/12.309 ms
+
+
+Tue Apr 14 01:09:58 CST 2015
+PING any.edge.bing.com (204.79.197.200): 56 data bytes
+64 bytes from 204.79.197.200: icmp_seq=0 ttl=114 time=184.459 ms
+Request timeout for icmp_seq 1
+64 bytes from 204.79.197.200: icmp_seq=2 ttl=114 time=196.354 ms
+64 bytes from 204.79.197.200: icmp_seq=3 ttl=114 time=208.851 ms
+64 bytes from 204.79.197.200: icmp_seq=4 ttl=114 time=212.867 ms
+64 bytes from 204.79.197.200: icmp_seq=5 ttl=114 time=205.197 ms
+Request timeout for icmp_seq 6
+64 bytes from 204.79.197.200: icmp_seq=7 ttl=114 time=203.272 ms
+64 bytes from 204.79.197.200: icmp_seq=8 ttl=114 time=212.854 ms
+64 bytes from 204.79.197.200: icmp_seq=9 ttl=114 time=197.035 ms
+
+--- any.edge.bing.com ping statistics ---
+10 packets transmitted, 8 packets received, 20.0% packet loss
+round-trip min/avg/max/stddev = 184.459/202.611/212.867/9.055 ms

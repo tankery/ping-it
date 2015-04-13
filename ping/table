@@ -1,0 +1,63 @@
+#!/usr/bin/env python
+# -*- coding: UTF-8 -*-
+
+from utils import pipeline_func
+
+######
+# business functions
+
+def file_pkg(fname):
+    from os import path
+    import analyzer
+    pkg = analyzer.file_summerize(fname)
+    host = path.basename(path.splitext(fname)[0])
+    pkg['host'] = host
+    return pkg
+
+def dir_summerize(dirname):
+    import glob, os
+    files = glob.glob(os.path.join(dirname, '*.txt'))
+    s = map(file_pkg, files)
+    s = filter(lambda x: x, s)
+    return s
+
+def result_sorting(sums):
+    from analyzer import pkg_score
+    return sorted(sums, key=pkg_score)
+
+def result_beauty(sums):
+    from analyzer import pkg_score
+    def formatting(pkg):
+        score = int(pkg_score(pkg) * 100)
+        pkg['graph'] = '%*d]' % (score, score)
+        return '%(loss)4.1f%%, %(avg)7.2f, %(stddev)6.2f, <a href="./site?host=%(host)s">%(host)32s</a>, %(graph)s' % \
+                pkg
+    return map(formatting, sums)
+
+def analyzing(dirname):
+    s = pipeline_func(dirname, [
+        dir_summerize,
+        result_sorting,
+        result_beauty,
+        ])
+    title = '%5s %8s %7s  %s' % ('loss', 'avg', 'stddev', 'host')
+    s.insert(0, title)
+    return s
+
+
+#####
+# Script
+
+# enable debugging
+import cgitb
+cgitb.enable()
+
+table = analyzing("collection")
+
+print "Content-Type: text/html;charset=utf-8"
+print
+print '<pre>'
+for line in table:
+    print line
+print '</pre>'
+
