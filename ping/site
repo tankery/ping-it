@@ -23,7 +23,7 @@ def result_beauty(pkgs):
     from analyzer import pkg_score
     def formatting(pkg):
         score = int(pkg_score(pkg) * 100)
-        pkg['graph'] = '%*d]' % (score, score)
+        pkg['graph'] = '{score:.>{width}d}]'.format(width=score, score=score)
         return '%(time)s, %(loss)4.1f%%, %(avg)7.2f, %(stddev)6.2f, %(graph)s' % \
                 pkg
     return map(formatting, pkgs)
