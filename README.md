@@ -77,7 +77,8 @@ ping/             # The python scripts hosting directory,
 ```
 
 ## Prerequisit
-Apache with CGI support.
+1. UNIX base OS (Max & Linux) with python support
+2. Apache with CGI support.
 
 ## Usage
 1. clone the repository.
